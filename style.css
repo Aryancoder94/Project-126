@@ -1,0 +1,17 @@
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    text-shadow: black;
+}
+h4{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+canvas{
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px lime;
+}
